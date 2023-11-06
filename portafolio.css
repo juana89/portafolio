@@ -336,6 +336,9 @@ footer ul li {
 footer ul li a {
     color: whitesmoke;
 }
+ footer ul li a:hover{
+    border: none;
+}
 
 /*------------ media------------*/
 @media screen and (max-width:800px) {
